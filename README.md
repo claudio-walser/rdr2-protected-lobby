@@ -1,2 +1,9 @@
-# rdr2-single-lobby
-Play RDR2 Online in a Single Lobby
+# Setup instructions
+
+1. find your RDR2 data folder
+  Linux
+  ```
+  $HOME/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Red\ Dead\ Redemption\ 2/x64/data
+  ```
+3. put the startup.meta file in there (do not forget to change the password on the last line)
+4. play without cheating idiots which crash your game
