@@ -2,7 +2,7 @@
 
 1. find your RDR2 data folder
 
-  Linux
+  - Linux
   ```
   $HOME/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Red\ Dead\ Redemption\ 2/x64/data
   ```
